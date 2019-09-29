@@ -1,0 +1,6 @@
+echo "# CIT261-Work" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/milton-d-steven/CIT261-Work.git
+git push -u origin master
